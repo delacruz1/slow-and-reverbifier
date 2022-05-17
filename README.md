@@ -1,3 +1,5 @@
+![Slow and Reverbifier GUI](./images/slowAndReverb.png)
+
 # slow-and-reverbifier
 Slow and Reverbifier is a program for slowing down and adding reverb to songs. This was done using Python, PyQt and Spotify's Pedalboard Library
 
